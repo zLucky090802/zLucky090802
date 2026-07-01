@@ -20,7 +20,7 @@
 I'm a Full Stack Developer with experience in building scalable REST APIs and advanced RAG systems. I'm proficient in technologies such as Node.js, TypeScript, Angular, and React for dynamic interfaces. As for AI and data, I know vector databases like Pinecone and building autonomous agents.Check my portafolio:
 
 <div align='center'>
-💼 **Portafolio:** https://portafoliodanielespitia.netlify.app/
+💼 *Portafolio:* https://portafoliodanielespitia.netlify.app/
   
 </div> 
 
