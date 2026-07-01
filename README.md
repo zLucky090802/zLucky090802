@@ -10,7 +10,7 @@
 </p>
 
 <!-- Puedes reemplazar esta URL por tu GIF de preferencia para mantener la estética de la imagen image_18bdc0.png -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6N3A0bndvN2s1bXp6bXp6bXp6bXp6bXp6bXp6bXp6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="480" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZuMHhlNmEzY3o4cTkxNG5zbnY3cGRxNTNuZWQ0aWQ4OGpqcjB5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KziKCpvrGngHbYjaUF/giphy.gif" alt="Coding Banner" width="480" />
 
 </div>
 
