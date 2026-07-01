@@ -21,6 +21,7 @@ I'm a Full Stack Developer with experience in building scalable REST APIs and ad
 
 <div align='center'>
 <a href='https://portafoliodanielespitia.netlify.app/'>💼 Portafolio</a>
+<a href='mailto:d.espitia15@gmail.com'>✉️ mail</a>
   
 </div> 
 
