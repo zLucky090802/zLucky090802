@@ -10,14 +10,16 @@
 </p>
 
 <!-- Puedes reemplazar esta URL por tu GIF de preferencia para mantener la estética de la imagen image_18bdc0.png -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZuMHhlNmEzY3o4cTkxNG5zbnY3cGRxNTNuZWQ0aWQ4OGpqcjB5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KziKCpvrGngHbYjaUF/giphy.gif" alt="Coding Banner" width="480" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBvaGN0Y2l0YzM4N3R1ZTcydzVteWthaG5wbWQ3OXBoOWppaWgzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R97jJCEGEmh0I/giphy.gif" alt="Coding Banner" width="480" />
 
 </div>
 
 ---
 
 
-I'm a Full Stack Developer with experience in building scalable REST APIs and advanced RAG systems. I'm proficient in technologies such as Node.js, TypeScript, Angular, and React for dynamic interfaces. As for AI and data, I know vector databases like Pinecone and building autonomous agents.
+I'm a Full Stack Developer with experience in building scalable REST APIs and advanced RAG systems. I'm proficient in technologies such as Node.js, TypeScript, Angular, and React for dynamic interfaces. As for AI and data, I know vector databases like Pinecone and building autonomous agents.Check my portafolio:
+
+* 💼 **Portafolio:** https://portafoliodanielespitia.netlify.app/
 
 
 
