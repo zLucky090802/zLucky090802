@@ -14,7 +14,7 @@
 
 </div>
 
----
+
 
 
 I'm a Full Stack Developer with experience in building scalable REST APIs and advanced RAG systems. I'm proficient in technologies such as Node.js, TypeScript, Angular, and React for dynamic interfaces. As for AI and data, I know vector databases like Pinecone and building autonomous agents.Check my portafolio:
@@ -22,6 +22,7 @@ I'm a Full Stack Developer with experience in building scalable REST APIs and ad
 <div align='center' style='display: flex; flex-direction: column; align-items: center; gap: 8px;'>
   <a href='https://portafoliodanielespitia.netlify.app/' target='_blank'>💼 Portafolio</a>
   <a href='mailto:d.espitia15@gmail.com'>✉️ Contact me </a>
+  
 </div>
 
 
