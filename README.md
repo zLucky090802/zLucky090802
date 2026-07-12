@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBvaGN0Y2l0YzM4N3R1ZTcydzVteWthaG5wbWQ3OXBoOWppaWgzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R97jJCEGEmh0I/giphy.gif" alt="Coding Banner" width="480" />
+<img src="https://i.pinimg.com/736x/4d/b2/e2/4db2e2e9e0d5af8e3a368d753acc3bdb.jpg" alt="Coding Banner" width="480"/>
 # Hi <span>👋</span>, I'm Daniel Espitia
 
 ### A passionate software developer from Colombia
