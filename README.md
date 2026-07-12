@@ -8,7 +8,7 @@
   <img src="https://i.imgur.com/fWvdNmH.jpeg" alt="Hi, Daniel here!" width="80%" height='160px'/>
 </p>
 
-<h3>A passionate Full Stack Developer & Data Analyst from Colombia</h3>
+<h3>A passionate Full Stack Developer & Data Analyst based in Colombia</h3>
 </div>
 
 <br/>
