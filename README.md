@@ -6,8 +6,7 @@
 
 
 
-<!-- Puedes reemplazar esta URL por tu GIF de preferencia para mantener la estética de la imagen image_18bdc0.png -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBvaGN0Y2l0YzM4N3R1ZTcydzVteWthaG5wbWQ3OXBoOWppaWgzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R97jJCEGEmh0I/giphy.gif" alt="Coding Banner" width="480" />
+
 
 </div>
 
