@@ -1,5 +1,5 @@
 <div align="center" style='display:flex; flex-direction:column;'>
-<img src="https://i.pinimg.com/736x/4d/b2/e2/4db2e2e9e0d5af8e3a368d753acc3bdb.jpg" alt="Coding Banner" width="480"/>
+<img src="https://i.pinimg.com/736x/4d/b2/e2/4db2e2e9e0d5af8e3a368d753acc3bdb.jpg" alt="Coding Banner" width="85%"/>
 <h1># Hi <span>👋</span>, I'm Daniel Espitia</h1>
 
 ### A passionate software developer from Colombia
