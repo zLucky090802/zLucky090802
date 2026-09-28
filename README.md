@@ -18,7 +18,7 @@
 
 <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Daniel Tech Illustration" width="320" align="right" style="margin-left: 20px; margin-bottom: 10px; border-radius: 10px;"/>
 
-🚀 I am a **Full Stack Developer and Data Analyst** with over 3 years of experience in the full application development lifecycle and structured data optimization.
+🚀 I am a **Full Stack Developer and Data Analyst** with over 5 years of experience in the full application development lifecycle and structured data optimization.
 
 💡 I specialize in designing scalable **REST APIs** with **Node.js and TypeScript**, crafting dynamic user interfaces, and writing advanced **SQL** queries for business-driven metrics.
 
